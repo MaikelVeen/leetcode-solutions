@@ -19,4 +19,4 @@ Please note that these solutions are in no form or way an attempt to be the best
 
 | Problem | Name                                          | Type   | Url                                                                                  | Date       | Runtime | Memory |
 | ------- | --------------------------------------------- | ------ | ------------------------------------------------------------------------------------ | ---------- | ------- | ------ |
-| 1892    | Richest Customer Wealth | Easy | [URL](https://leetcode.com/problems/richest-customer-wealth/) | 20 Sep '22  | 9ms     | 3.1 MB |
+| 1672    | Richest Customer Wealth | Easy | [URL](https://leetcode.com/problems/richest-customer-wealth/) | 20 Sep '22  | 9ms     | 3.1 MB |
